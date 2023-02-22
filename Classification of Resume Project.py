@@ -23,7 +23,7 @@ import re
 # In[78]:
 
 
-resume_data = pd.read_csv('C:/Users/PARESH/Desktop/Lectures/ML Data/UpdatedResumeDataSet.csv')
+resume_data = pd.read_csv('https://github.com/Ekta-Solanki/ML-Resume_Classification/blob/681567bcff66329d81d5e18637085b71b7e43101/UpdatedResumeDataSet.csv')
 
 
 # In[79]:
